@@ -2,6 +2,7 @@ body{
 	background-image: url(sitefiles/back01.jpg);
 	background-size: cover;
 	font-family: Arial;
+	overflow:  hidden;
 }
 #img01{
 	text-align: center;
